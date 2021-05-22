@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @affanbinrazi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Development
 - 📫 How to reach me follow on Instagram @affanbinrazi
